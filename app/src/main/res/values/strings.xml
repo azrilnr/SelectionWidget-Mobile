@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">selectionWidget</string>
+
+    <string-array name="country">
+        <item>Belgia</item>
+        <item>Germany</item>
+        <item>Singapura</item>
+        <item>Vietnam</item>
+        <item>China</item>
+    </string-array>
+
+    <string-array name="motor">
+        <item>Honda Beat</item>
+        <item>Honda Beat Street</item>
+        <item>Honda Scoppy</item>
+        <item>Honda Vario 150</item>
+        <item>Honda ADV</item>
+        <item>Honda PCX</item>
+        <item>Honda Forza</item>
+    </string-array>
+
+    <string-array name="Deskripsi">
+        <item>Honda Beat</item>
+        <item>Honda Beat Street</item>
+        <item>Honda Scoppy</item>
+        <item>Honda Vario 150</item>
+        <item>Honda ADV</item>
+        <item>Honda PCX</item>
+        <item>Honda Forza</item>
+    </string-array>
+</resources>
